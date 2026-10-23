@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "streamer-tools",
+  "version": "${version}",
+  "name": "Streamer Tools",
+  "description": "A DonutSMP streamer utility mod with auction bids and a paper game tab.",
+  "authors": [
+    "arunnicholasgrigorescu-sys"
+  ],
+  "contact": {
+    "homepage": "https://github.com/arunnicholasgrigorescu-sys/Streamer-tools"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.streamertools.StreamerToolsMod"
+    ],
+    "client": [
+      "com.streamertools.client.StreamerToolsClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

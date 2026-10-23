@@ -1,0 +1,16 @@
+{
+  "values": {
+    "key.category.streamer_tools": "Streamer Tools",
+    "key.streamer_tools.open_menu": "Open Streamer Tools",
+    "screen.streamer_tools.title": "Streamer Tools",
+    "screen.streamer_tools.auction_tab": "Auction",
+    "screen.streamer_tools.paper_tab": "Paper Game",
+    "field.streamer_tools.item_name": "Item",
+    "field.streamer_tools.item_value": "Item Value",
+    "field.streamer_tools.min_bid": "Min Bid",
+    "field.streamer_tools.duration": "Auction Duration",
+    "button.streamer_tools.start_auction": "Start Auction",
+    "button.streamer_tools.draw_card": "Draw Card",
+    "button.streamer_tools.close": "Close"
+  }
+}
